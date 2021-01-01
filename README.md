@@ -1,9 +1,9 @@
 # live-text-translator
- 
+We will be following a web page available stackabuse.com with information on pytesseract as a guidance and inspiration for our translation program.  
 
 
  
-# Installation for our own development purposes (For Jerry and Eitan)
+# Installation for our own development and educational purposes (For Jerry and Eitan)
 
 Follow this install guide. 
 How to install library and engine is shown below and not in the guide
